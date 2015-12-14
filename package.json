@@ -8,7 +8,8 @@
   },
   "eyeglass": {
     "exports": "eyeglass-exports.js",
-    "name": "singularitygs"
+    "name": "singularitygs",
+    "needs": "*"
   },
   "devDependencies": {
     "diff": "^1.2.1",
